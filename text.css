@@ -1,0 +1,31 @@
+
+h1{
+
+    color:#FFFFFF;
+    background: #B3B3B3;
+    line-height: 200%;
+    font-size:200%
+}
+header{
+    text-align:center;
+    background: #C9B9B9;
+}
+
+nav{
+     font-variant: small-caps;
+     font-size: 200%;
+}
+h2{
+
+     background: #00b7ea;
+}
+details{
+
+    font-style: italic;
+    color: purple;
+}
+summary{
+    font-style: normal;
+    color: black;
+}
+
